@@ -24,5 +24,5 @@
 
 <div>
 <a href = "jessica.apsantos@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-black?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="[https://www.linkedin.com/in/jessica-aparecida-710b86223/](https://www.linkedin.com/in/jessica-apasantos-710b86223/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/jessica-apasantos-710b86223/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
