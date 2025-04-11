@@ -8,7 +8,7 @@
 
 <br>
 🎓 <strong>Faculdade:</strong> Estudo Análise e Desenvolvimento de Sistemas.<br>
-💻 <strong>Áreas de Interesse:</strong> Até o momento Inteligência Artificial, Desenvolvimento Web e Focado em aprender Trabalhar no Back-End.<br>
+💻 <strong>Áreas de Interesse:</strong> Até o momento Inteligência Artificial, Desenvolvimento Web e Focado em aprender Trabalhar no Frond-End.<br>
 🎯 <strong>Objetivo:</strong> Tornar-me uma profissional versátil e preparada para enfrentar os desafios do mercado tecnológico
 <br><br>
 
